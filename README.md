@@ -2,7 +2,7 @@
 
 This is a simple test dapp for use in MetaMask e2e tests.
 
-Currently hosted [here](https://metamask.github.io/test-dapp/).
+Currently hosted [here](https://nguyenphunho.github.io/dapp).
 
 ## NOTE: Requires Manual Deployment
 After merging or pushing to `master`, please `yarn deploy` in the project root
